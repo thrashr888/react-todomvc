@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "date-fns": "^2.5.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "reboot.css": "^1.0.1",
